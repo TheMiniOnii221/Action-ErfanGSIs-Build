@@ -2,8 +2,7 @@ name: ErfanGSIs Builder
 
 on:
   watch:
-    types: [started]
-    
+    types: [started]    
 env:
   ROM_LINK: your rom's direct link
   ROM_LINK: https://dl.google.com/developers/android/udc/images/factory/redfin_beta-upp1.230113.009-factory-fd5d78b7.zip
