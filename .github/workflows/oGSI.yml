@@ -1,5 +1,4 @@
 name: ErfanGSIs Builder
-
 on:
   watch:
     types: [started]
