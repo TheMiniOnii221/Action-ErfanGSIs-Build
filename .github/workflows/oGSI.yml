@@ -5,7 +5,6 @@ on:
     types: [started]
   
 env:
-
   ROM_LINK: https://dl.google.com/developers/android/udc/images/factory/redfin_beta-upp1.230113.009-factory-fd5d78b7.zip
   ROM_TYPE: Pixel
   BUILD_AB: true
