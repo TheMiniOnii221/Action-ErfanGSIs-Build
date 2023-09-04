@@ -3,12 +3,12 @@ on:
   watch:
     types: [started]
   env:
-  ROM_LINK: https://dl.google.com/developers/android/udc/images/factory/redfin_beta-upp1.230113.009-factory-fd5d78b7.zip
-  ROM_TYPE: Pixel
+  ROM_LINK: https://takeshi.dev/0:/whyred/qassa-Sisu-v2.2-lavender-20230826-1833-Vanilla.zip
+  ROM_TYPE: Generic
   BUILD_AB: true
   BUILD_AONLY: false
   ROM_AONLY: [A]MiniOniiGSIs.7z
-  ROM_AB: [AB]MiniOniiGSIs-Pixel-5-Android-U-100223.7z
+  ROM_AB: [AB]MiniOniiGSIs-Qassa-2.2-10.7z
 jobs:
   build:
     runs-on: ubuntu-latest
